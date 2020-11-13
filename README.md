@@ -33,4 +33,4 @@
 
 <h5><a href="https://github.com/mayur-jagtap"> Mayur Jagtap </a></h5>
 
-<p> Huge Thanks to Mayur, We worked a lot, yet it is not the best one, but Definately BEST for us. </p>
+<p> Huge Thanks to Mayur, We worked a lot, yet it is not the best one, but Definitely BEST for us. </p>
