@@ -27,3 +27,8 @@
 <p> This is my first big project I have ever worked on. </p>
 <p> As it was my first time I was naive, I didn't care about code reusability and clean code. </p>
 <p> I have could Have Done more, but still it is my best and good work. </p>
+
+<h2>Main Contributors</h2>
+<h5> <a href="https://github.com/sarveshtheabstractor"> Sarvesh Hiwase </a></h5>
+
+<h5><a href="https://github.com/mayur-jagtap"> Mayur Jagtap </a></h5>
